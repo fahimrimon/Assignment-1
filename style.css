@@ -1,0 +1,163 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.first-section{
+    margin-bottom: 70px;
+}
+.border-lft{
+    border-left: 3px solid tomato;
+}
+.first-page{
+    width: 50%;
+    padding-left: 5%;
+}
+.first-page img{
+    width: 65%;
+    margin-right: 100px;
+}
+.first-btn{
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.first-section p{
+    font-size: 14px;
+}
+.wieght-font{
+    font-weight: bold;
+    font-size: x-large;
+}
+.second-head{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.mission{
+    width: 33%;
+    padding: 2%;
+    background-color: thistle;
+    border-radius: 25px;
+    margin-left: 75px;
+    font-size: 14px;
+}
+.vision{
+    width: 33%;
+    padding: 2%;
+    background-color: plum;
+    border-radius: 25px;
+    margin-left: 25px;
+    font-size: 14px;
+}
+.goals{
+    width: 33%;
+    padding: 2%;
+    background-color: pink;
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-right: 90px;
+    font-size: 14px;
+}
+.mission img{
+    width: 30%;
+}
+.vision img{
+    width: 33%;
+}
+.goals img{
+    width: 33%;
+}
+.second-section{
+    margin-bottom: 70px;
+    margin-top: 60px;
+}
+.third-page{
+    width: 50%;
+}
+.third-page img{
+    width: 65%;
+    margin-left: 75px;
+    height: 80%;
+}
+.third-page h3{
+    font-size: 36px;
+}
+.mr-right{
+    margin-right: 90px;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+.second-btn{
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    padding:10px 30px;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.third-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position-y: center;
+    margin-bottom: 55px;
+}
+.fourth-page{
+    width: 50%;
+    padding-left: 5%;
+}
+.fourth-page h2{
+    font-size: 36px;
+}
+.fourth-page img{
+    width: 55%;
+    margin-right: 150px;
+    height: 100%;
+    
+}
+.fourth-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: right;
+    margin-bottom: 55px;
+}
+.fifth-page{
+    width: 50%;
+}
+.fifth-page img{
+    width: 65%;
+    margin-left: 75px;
+    height: 60%;
+    border-radius: 30px;
+}
+.fifth-page h3{
+    font-size: 36px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.footer h3{
+    font-size: 30px;
+    font-family: cursive;
+}
+.footer p{
+    font-size: 14px;
+}
